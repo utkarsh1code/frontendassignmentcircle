@@ -1,12 +1,12 @@
 Here’s the formatted README that you can copy and paste directly, with proper use of `##`, `-`, and code blocks:
 
-```markdown
-# 🚀 CirclePe Assignment: Next-Level Web Experience
 
-Welcome to my **CirclePe Assignment**, where cutting-edge tech meets seamless user experience. This project showcases a fully responsive Next.js application, styled to perfection with Tailwind CSS and supercharged by Framer Motion animations. Whether you're browsing on mobile or desktop, you're in for a visually dynamic and smooth ride!
+ 🚀 CirclePe Assignment: Next-Level Web Experience
+
+Welcome to my CirclePe Assignment, where cutting-edge tech meets seamless user experience. This project showcases a fully responsive Next.js application, styled to perfection with Tailwind CSS and supercharged by Framer Motion animations. Whether you're browsing on mobile or desktop, you're in for a visually dynamic and smooth ride!
 
 ## 🌐 Project Link
-Check out the project live: [CirclePe Assignment]()
+Check out the project live: [nsmnmz]()
 
 ## 📖 Table of Contents
 - [🔥 Features](#-features)
@@ -79,4 +79,3 @@ Get the app up and running in no time:
 This project isn’t just about functionality; it’s about delivering a **pixel-perfect**, **performance-optimized**, and **accessible** experience as highlighted in the assignment .
 
 
-```
