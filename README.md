@@ -6,7 +6,11 @@ Here’s the formatted README that you can copy and paste directly, with proper 
 Welcome to my CirclePe Assignment, where cutting-edge tech meets seamless user experience. This project showcases a fully responsive Next.js application, styled to perfection with Tailwind CSS and supercharged by Framer Motion animations. Whether you're browsing on mobile or desktop, you're in for a visually dynamic and smooth ride!
 
 ## 🌐 Project Link
-Check out the project live: [nsmnmz]()
+Check out the project live: [CirclePe](https://utkarshcirclepe.vercel.app/)
+## Project Scrrenshot:
+![image](https://github.com/user-attachments/assets/f8e6e666-8426-4e9b-a001-660e6cfba506)
+
+![image](https://github.com/user-attachments/assets/8624943a-0c59-4d4c-8e3a-149a3858df83)
 
 ## 📖 Table of Contents
 - [🔥 Features](#-features)
